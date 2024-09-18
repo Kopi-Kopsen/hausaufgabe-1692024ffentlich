@@ -1,5 +1,6 @@
 {
     "name": "Hausaufgabe 16.9.2024(Öffentlich)",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
